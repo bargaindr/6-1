@@ -1,0 +1,7 @@
+设置用户名
+git comfig --global user.name 'bargaindr'
+设置邮箱
+git comfig --global user.name '1255361592@qq.com
+
+
+
